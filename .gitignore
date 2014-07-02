@@ -1,0 +1,8 @@
+bin/
+data/
+*.csv
+#output/
+#resources/
+.classpath
+.project
+.settings
